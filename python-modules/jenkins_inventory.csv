@@ -1,0 +1,21 @@
+Job Name,VCS URL
+agent-job,
+awscicd,https://github.com/kserge2001/awscicd.git
+first-job,
+first-pipeline-job,https://github.com/kserge2001/week10-terraform-vpc-ec2-alb.git
+geoapp,https://github.com/kserge2001/geoapp.git
+geosolution,https://github.com/kserge2001/geo.git
+job-with-docker-agent,https://github.com/kserge2001/geoapp.git
+job-with-parameter-project,https://github.com/hyvrane/week10-vpc-ec2-alb.git
+job2,https://github.com/kserge2001/awscicd.git
+maven-project,https://github.com/hyvrane/maven-code.git
+nodejs-app,https://github.com/kserge2001/nodejs-app.git
+pipeline-job,https://github.com/kserge2001/awscicd.git
+QA,
+reccurent_job,https://github.com/kserge2001/geo.git
+run-script,
+sonartest,
+sonartest1,
+terraform-code-dev,https://github.com/kserge2001/week6git.git
+terraform-code-dev-project,https://github.com/hyvrane/week10-vpc-ec2-alb.git
+test-job,
